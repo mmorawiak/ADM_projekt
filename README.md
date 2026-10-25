@@ -53,6 +53,3 @@ Aktywności możemy podzielić na dwie główne grupy:
 
 Taki podział pozwoli nam sprawdzić, jak różnią się wartości przyspieszenia podczas ruchu i spoczynku.
 
-
-**UCI HAR – Human Activity Recognition Using Smartphones:**
-https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones
