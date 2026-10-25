@@ -1,6 +1,7 @@
 # ADM – RAPORT Z WYBORU BAZY DANYCH
 
 **Tytuł projektu:** Rozpoznawanie aktywności człowieka na podstawie danych z akcelerometru smartfona
+**Kod:** P68 – Chód i bieg z czujników w smartfonie (pełne)
 
 **Wybrana baza danych:** WISDM – Activity Prediction v1.1
 
